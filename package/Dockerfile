@@ -21,6 +21,8 @@ RUN apt-get update && \
         ldap-utils \
         less \
         libpcap-dev \
+        man \
+        manpages-posix
         mtr \
         net-tools \
         netcat \
